@@ -3,7 +3,7 @@
 
 🌱 I’m currently improving my skillset on bridging the gap between <strong>Code & Design</strong>  
 👯 I’m looking to collaborate on projects based on <strong>Machine Learning</strong>  
-📫 <strong>Reach me at:</strong> <a href="shreyasaihgal.1503@gmail.com">Email</a> 
+📫 <strong>Reach me at:</strong> <a href="mailto:shreyasaihgal.1503@gmail.com">Email</a> <br>
 📄 <strong>Know about my experiences:</strong> <a href="https://drive.google.com/file/d/1DhlNP0olnED63aFwNjiJgd6Qy5fuHRB6/view?usp=sharing">My Resume</a>
 
 <h2 align="left">Languages and Tools:</h2>
